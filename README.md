@@ -1,2 +1,2 @@
 # serverstuff
-A web framework
+A toy web framework for experimenting with stuff.
